@@ -1,4 +1,3 @@
-
 <h1 align="center">
 <br>
   <a href="https://github.com/leonardomso/react-bolt"><img src="https://i.imgur.com/GpQk5wG.png" alt="React Bolt" width=128"></a>
@@ -30,14 +29,12 @@ I wrote a article for anyone who wants to learn how to build this boilerplate, i
 
 This boilerplate features all the latest tools and practices in the industry.
 
-- ⚛ **React** — 16.7.0-alpha.0 with Hooks
-- ♻ **Redux** — State Management
-- 🛠 **Babel** — ES6 syntax, Airbnb & React/Recommended config
-- 🚀 **Webpack**  — Hot Reloading, Code Splitting, Optimized Build
-- 💅 **CSS** — Styled Components
-- ✅  **Tests** — Jest, React Testing Library & Cypress
-- 💖  **Lint** — ESlint
-- 🐶  **Husky** — Prevent bad commits
+-   ⚛ **React** — 16.7.0-alpha.0 with Hooks
+-   🛠 **Babel** — ES6 syntax, Airbnb & React/Recommended config
+-   🚀 **Webpack** — Hot Reloading, Code Splitting, Optimized Build
+-   💅 **CSS** — Styled Components
+-   ✅ **Tests** — Jest, React Testing Library & Cypress
+-   💖 **Lint** — ESlint
 
 ## Getting started
 
@@ -48,21 +45,21 @@ This boilerplate features all the latest tools and practices in the industry.
 
 ## Commands
 
-- `npm start` - start the dev server
-- `npm run build` - create a production ready build in `dist` folder
-- `npm run lint` - execute an eslint check
-- `npm run lint:fix` - execute an eslint and fix the errors
-- `npm test` - run all tests
-- `npm run test:watch` - run all tests in watch mode
-- `npm run test:cover` - coverage mode
-- `npm run cypress:open` - starts cypress
+-   `npm start` - start the dev server
+-   `npm run build` - create a production ready build in `dist` folder
+-   `npm run lint` - execute an eslint check
+-   `npm run lint:fix` - execute an eslint and fix the errors
+-   `npm test` - run all tests
+-   `npm run test:watch` - run all tests in watch mode
+-   `npm run test:cover` - coverage mode
+-   `npm run cypress:open` - starts cypress
 
 ## Next features:
 
-- [ ] **Hot Module Replacement**: Better HMR support;
-- [ ] **CSS/Sass support**: Enable CSS/Sass support;
-- [ ] **PWA**: Turn into a PWA boilerplate;
-- [ ] **SEO**: SEO-ready;
+-   [ ] **Hot Module Replacement**: Better HMR support;
+-   [ ] **CSS/Sass support**: Enable CSS/Sass support;
+-   [ ] **PWA**: Turn into a PWA boilerplate;
+-   [ ] **SEO**: SEO-ready;
 
 ## License
 
